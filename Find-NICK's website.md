@@ -1,5 +1,7 @@
-| STYLES | [WHITEY](https://find-nick.github.io/index.html) | [TURING](https://find-nick.github.io/index-TURING.html) | [GITHUB](https://find-nick.github.io/index-GITHUB.html) |
-| ------ | ------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------- |
+| [MAINPAGE](https://find-nick.github.io/) | [PROJECTS](https://find-nick.github.io/projects) | [BLOG](https://find-nick.github.io/blog) |
+| :--------------------------------------- | :----------------------------------------------- | :--------------------------------------- |
+
+
 
 # [**Find-NICK**](https://github.com/Find-NICK)'s website #
 
@@ -10,7 +12,7 @@ visit me on LUOGU : [CLICK ME!](https://www.luogu.com.cn/user/835911)
 ### My Projects ###
 
 - ### IDOWN [CLICK ME!](https://github.com/Find-NICK/IDOWN)
- 
+
  #### `a modern TUI downloader,made with C++ and love `
 
 
