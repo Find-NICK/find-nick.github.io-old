@@ -7,7 +7,7 @@
 
 
 
-[【计算机科学速成课】[40集全/精校] - Crash Course Computer Science](https://www.bilibili.com/video/av21376839/)
+[Crash Course Computer Science](https://www.bilibili.com/video/av21376839/)
 
 
 
