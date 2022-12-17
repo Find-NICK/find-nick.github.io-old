@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Secret Sudoku</title>
+    <script src="js/sudoku/sudoku.js"></script>
+    <script src="js/main.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+
+<body>
+    <div class="pointer blink">👆</div> <!--This line, and the one below it, are visual aids that may not be required-->
+    <script>setTimeout(() => document.querySelector('.pointer').remove(), 3000)</script>
+    <a class="github-button" href="https://github.com/healeycodes/secret-sudoku" data-icon="octicon-star" data-size="large"
+        data-show-count="true" aria-label="Star healeycodes/secret-sudoku on GitHub">Star</a>
+    <h2>Secret Sudoku</h2>
+    <p>Play the classic game of Sudoku right here in your URL bar!</p>
+    <h3>Controls:</h3>
+    <ul>
+        <li class="blink">Make sure focus is here in the window</li>
+        <li>Navigate with arrow keys (up/down/left/right)</li>
+        <li>Fill squares with numbers</li>
+        <li>F-keys to adjust difficulty/start new</li>
+    </ul>
+    <h3>Preview for mobile users:</h3>
+    <img src="preview.gif">
+    <h4>
+        <a href="https://healeycodes.github.io/sudoku/front-end/javascript/2019/02/21/secret-sudoku.html">My blog post
+            about this project</a>
+    </h4>
+    <p>Made with ❤️ by <a href="https://healeycodes.github.io/">healeycodes</a></p>
+    <script src="https://buttons.github.io/buttons.js"></script>
+</body>
+
+</html>
