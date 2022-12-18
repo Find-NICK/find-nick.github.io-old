@@ -8,7 +8,7 @@
 
 ##### License
 
-[![MIT License](https://find-nick.github.io/MIT.png)](https://opensource.org/licenses/MIT)
+[![MIT License](https://raw.githubusercontent.com/Find-NICK/find-nick.github.io/main/MIT.png =100)](https://opensource.org/licenses/MIT)
 
 
 
