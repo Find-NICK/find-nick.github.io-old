@@ -6,6 +6,10 @@
 
 
 
+##### License
+
+[![MIT License](https://find-nick.github.io/MIT.png)](https://opensource.org/licenses/MIT)
+
 
 
 
