@@ -7,7 +7,7 @@ const currentCacheName = "notedown.vasanthv.com-v0.1.3";
 self.addEventListener("install", function(e) {
 	console.log("Install event triggered. New updates available.");
 	const filesToCache = [
-		"/",
+		"/index.html",
 		"/style.css",
 		"/script.js",
 		"/manifest.json",
