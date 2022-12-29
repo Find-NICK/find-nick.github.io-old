@@ -1,4 +1,0 @@
-# Gitalk comment system.
-
----
-
