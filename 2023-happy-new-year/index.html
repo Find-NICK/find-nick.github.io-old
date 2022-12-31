@@ -1,0 +1,42 @@
+<!-- 
+    Hi, I'm Code Kudos.
+    Wish you all Happy and prosperous New Year 2023, the front end way
+    A simple New year 2023 wish page along with fireworks using HTML, CSS & JS. Hope you like it!!!!
+    To see more like this Subscribe to 
+    
+    Youtube: @codekudos
+    Instagram: @codekudos
+    Twitter: @code_kudos
+ -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Fonts from Google-->
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Marck+Script&display=swap" rel="stylesheet">
+    <style> @import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap'); </style>
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Antonio&display=swap" rel="stylesheet">
+    <style> @import url('https://fonts.googleapis.com/css2?family=Antonio&display=swap'); </style>
+    <!--  -->
+    <title>Happy New Year 2023</title>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="jquery.fireworks.js"></script>
+</head>
+<body>
+    <div id="happy" data-text="Happy"><h2>Happy</h2></div>
+    <div id="newyear" data-text="New Year 2023"><h1>New Year 2023</h1></div>
+    
+    <script>
+        $('body').fireworks({
+      sound:false,
+      opacity: 0.8,
+      width:'100%',
+      height:'100%'
+    });
+    </script>
+</body>
+</html>
