@@ -1,7 +1,7 @@
 # find-nick.github.io
 ## MY Website
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/17933880-6e66-4519-a4cc-c545c34df37c/deploy-status)](https://find-nick.netlify.app)
 `Contains Blog,Projects,and my porfile.`
 
 
